@@ -14,7 +14,17 @@ Uygulama **N Katmanlı Mimari** yapısına uygun olarak tasarlanmış ve **MySQL
 - N katmanlı mimari ve OOP kavramlarını uygulamalı olarak öğrenmek  
 
 ---
+## 📌 Proje Özellikleri
 
+- Kullanıcı girişi ve rol bazlı yetkilendirme  
+- Ürün ekleme, silme ve güncelleme işlemleri  
+- Stok takibi ve otomatik stok güncelleme  
+- Minimum stok uyarı sistemi  
+- Müşteri yönetimi  
+- Satış işlemleri ve satış kayıtları  
+- Günlük ve aylık raporlamalar
+  
+---
 ## 👥 Kullanıcı Rolleri
 
 Uygulamada üç farklı kullanıcı rolü bulunmaktadır:
@@ -104,7 +114,15 @@ Proje üç ana katmandan oluşmaktadır:
 - Nesne Yönelimli Programlama (OOP)
 
 ---
+## 📞 İletişim
 
+Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
+
+- **Ad:** Dilan  
+- **Soyad:** Yel  
+- **Telefon:** +90 544 940 48 05
+- **E-posta:** dilanyel00@gmail.com  
+---
 ## Youtube
 
 https://youtu.be/niioUbZcVuY?si=8QFnA2YB10AxVINf
