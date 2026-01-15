@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Kafe.UI\aylıkrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kafe.UI\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kafe.UI\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kafe.UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kafe.UI\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kafe.UI\RaportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kafe.UI\SalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
